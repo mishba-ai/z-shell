@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 #include <sstream>
+#include <iterator>
 #include <unistd.h> // For chdir()
 
 //https://www.linuxquestions.org/questions/programming-9/making-a-c-shell-775690/#google_vignette 
